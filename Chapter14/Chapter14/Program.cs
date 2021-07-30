@@ -16,7 +16,7 @@ namespace Chapter14
         {
             SomeClass.m = 20;
             SomeClass obj = new SomeClass();
-            obj.x = 10;
+            obj.x = 15;
             Console.ReadLine();
         }
     }
