@@ -64,7 +64,7 @@ namespace Chapter18
             Person P0 = new Person();
             P0.Marriage = PersonMarriages.Married;
 
-            Person P1 = new Person("Ali Reza Alavi", 20, PersonGenders.Male, PersonMarriages.Single);
+            Person P1 = new Person("Mahya Amiri", 23, PersonGenders.Male, PersonMarriages.Single);
             P1.ShowInfo();
 
             Console.WriteLine("\n----------");
