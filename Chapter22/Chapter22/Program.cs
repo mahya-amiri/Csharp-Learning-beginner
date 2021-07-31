@@ -8,7 +8,7 @@ namespace Chapter22
         public readonly int F;
 
         private int _a;
-        public int A // Property <-> Read And Write Property!
+        public int A // Read And Write Property
         {
             get
             {
@@ -21,7 +21,7 @@ namespace Chapter22
         }
 
         private int _b;
-        public int B // Write Only Property!
+        public int B // Write Only Property
         {
             set
             {
@@ -30,7 +30,7 @@ namespace Chapter22
         }
 
         private int _c;
-        public int C // Read Only Property!
+        public int C // Read Only Property
         {
             get
             {
@@ -43,7 +43,30 @@ namespace Chapter22
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int intTemp = 0;
+            SomeClass obj = new SomeClass();
+
+            obj.A = 1; //write
+            intTemp = obj.A; // read
+
+            obj.B = 2;
+            // Wrong 
+            // intTemp = object1.B;
+
+            // Wrong 
+            // object1.C = 3;
+            intTemp = obj.C;
+
+            obj.E = 4;
+            intTemp = obj.E;
+
+            // Wrong 
+            // object1.F = 5;
+
+            intTemp = obj.F;
+
+            Console.WriteLine(obj.F.ToString());
+            System.Console.ReadLine();
         }
     }
 }
