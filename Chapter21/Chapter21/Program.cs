@@ -84,7 +84,7 @@ namespace Chapter21
             Person P1 = new Person();
             P1.Age = 20;
             P1.FirstName = "Mahya";
-            P1.LastName = "Ahmadi";
+            P1.LastName = "Amiri";
             P1.ShowInfo();
 
             Person P2 = new Person("Sara", "Ahmadi", 30);
