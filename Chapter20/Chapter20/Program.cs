@@ -62,7 +62,7 @@ namespace Chapter20
             Utility.Incr3(ref type1);
             type1.ShowValues();
 
-            System.Console.ReadLine();
+            Console.ReadLine();
         }
     }
 }
