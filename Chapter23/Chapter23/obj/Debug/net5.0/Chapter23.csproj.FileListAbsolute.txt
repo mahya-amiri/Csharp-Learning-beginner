@@ -1,0 +1,16 @@
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\bin\Debug\net5.0\Chapter23.exe
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\bin\Debug\net5.0\Chapter23.deps.json
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\bin\Debug\net5.0\Chapter23.runtimeconfig.json
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\bin\Debug\net5.0\Chapter23.runtimeconfig.dev.json
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\bin\Debug\net5.0\Chapter23.dll
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\bin\Debug\net5.0\ref\Chapter23.dll
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\bin\Debug\net5.0\Chapter23.pdb
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\obj\Debug\net5.0\Chapter23.csproj.AssemblyReference.cache
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\obj\Debug\net5.0\Chapter23.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\obj\Debug\net5.0\Chapter23.AssemblyInfoInputs.cache
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\obj\Debug\net5.0\Chapter23.AssemblyInfo.cs
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\obj\Debug\net5.0\Chapter23.csproj.CoreCompileInputs.cache
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\obj\Debug\net5.0\Chapter23.dll
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\obj\Debug\net5.0\ref\Chapter23.dll
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\obj\Debug\net5.0\Chapter23.pdb
+D:\documents\coding\5. C# beginner\tutorial\Toloo\Csharp-Learning-beginner\Chapter23\Chapter23\obj\Debug\net5.0\Chapter23.genruntimeconfig.cache
